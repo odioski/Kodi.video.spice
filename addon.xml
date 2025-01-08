@@ -1,0 +1,17 @@
+<addon id="plugin.video.spice" version="1.0.0" name="Video Spice Plugin" provider-name="link92@bookmotives.com">
+    <requires>
+        <import addon="xbmc.python" version="3.0.0"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="resources/lib/main.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.service" library="resources/lib/main.py" start="startup"/>
+    <extension point="xbmc.addon.metadata">
+        <summary>Overlay Plugin</summary>
+        <description>Displays an animated GIF overlay on top of the video player</description>
+        <platform>all</platform>
+        <language>en</language>
+        <icon>icon.png</icon>
+        <fanart>fanart.jpg</fanart>
+    </extension>
+</addon>

@@ -1,0 +1,5 @@
+<window>
+    <controls>
+        <!-- The overlay GIF will be added dynamically in the Python script -->
+    </controls>
+</window>

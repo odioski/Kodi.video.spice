@@ -1,4 +1,4 @@
-import xbmc
+iimport xbmc
 import xbmcgui
 import xbmcaddon
 import os
@@ -18,7 +18,7 @@ class Overlay(xbmcgui.WindowXMLDialog):
 
 def main():
     addon = xbmcaddon.Addon()
-    gif_path = os.path.join(addon.getAddonInfo('path'), 'resources', 'media', 'resources/video.spice.gif')
+    gif_path = os.path.join(addon.getAddonInfo('path'), 'resources', 'media', 'resources/media/video.spice.gif')
     overlay = Overlay('resources\\skins\\default\\video.spice.xml', gif_path=gif_path)
     overlay.doModal()
     # del overlay

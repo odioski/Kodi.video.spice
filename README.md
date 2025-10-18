@@ -1,2 +1,2 @@
 # Kodi.video.spice
- Animated overlay for Kodi video player
+ Animated overlay for the Kodi video player

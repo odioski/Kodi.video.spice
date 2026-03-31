@@ -1,0 +1,3 @@
+Version 1.0.0
+- Initial service add-on release for animated playback overlay support.
+- Added release packaging metadata and Kodi-ready zip staging.

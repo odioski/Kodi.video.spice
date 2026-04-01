@@ -1,0 +1,7 @@
+2026-04-01 11:00:58.500 T:16068    info <general>: CAddonMgr::FindAddons: service.video.spice v1.0.0 installed
+2026-04-01 11:00:58.833 T:16068   debug <general>: CServiceAddonManager: starting service.video.spice
+2026-04-01 11:00:58.873 T:16097   debug <general>: CPythonInvoker(0, /home/mrod/.kodi/addons/service.video.spice/service.py): start processing
+2026-04-01 11:00:58.897 T:16097   debug <general>: CPythonInvoker(0, /home/mrod/.kodi/addons/service.video.spice/service.py): the source file to load is "/home/mrod/.kodi/addons/service.video.spice/service.py"
+2026-04-01 11:00:58.897 T:16097   debug <general>: CPythonInvoker(0):     /home/mrod/.kodi/addons/service.video.spice
+2026-04-01 11:00:58.897 T:16097   debug <general>: CPythonInvoker(0, /home/mrod/.kodi/addons/service.video.spice/service.py): entering source directory /home/mrod/.kodi/addons/service.video.spice
+2026-04-01 11:00:58.897 T:16097   debug <general>: CPythonInvoker(0, /home/mrod/.kodi/addons/service.video.spice/service.py): instantiating addon using automatically obtained id of "service.video.spice" dependent on version 3.0.0 of the xbmc.python api
